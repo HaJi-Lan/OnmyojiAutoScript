@@ -1,3 +1,7 @@
+> **Fork 修改说明（2026-11-14）**：本仓库 fork 自 [nearaura/OnmyojiAutoScript](https://github.com/nearaura/OnmyojiAutoScript)，沿用原项目 GPLv3 许可证和作者归属。
+> 本 fork 新增 Rust 统一桌面与 Python 兼容层、精简任务菜单及探索＋个人突破绘卷循环；当前仍复用 Python 任务，并非完整 Rust 重写。
+> **桌面版使用、构建与差异说明见 [docs/desktop.md](docs/desktop.md)**；版权、来源与修改记录见 [NOTICE.md](NOTICE.md)。以下保留上游项目介绍。
+
 <div align="center">
 
 # OnmyojiAutoScript
